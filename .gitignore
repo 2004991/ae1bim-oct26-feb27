@@ -1,0 +1,18 @@
+
+# Bases de datos SQLite locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de configuracion del editor
+.vscode/
+# Carpeta temporal de pruebas
+prueba_limpia/
